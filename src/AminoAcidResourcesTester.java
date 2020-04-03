@@ -59,4 +59,9 @@ class AminoAcidResourcesTester{
     }
   }
 
+  @Test
+  public void addCodonTest(){
+    String inCodon = "A"
+  }
+
 }
